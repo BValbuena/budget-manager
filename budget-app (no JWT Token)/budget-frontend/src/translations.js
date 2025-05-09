@@ -1,0 +1,31 @@
+export const translations = {
+    es: {
+      title: 'Planificador de presupuesto',
+      clientLabel: 'Nombre del cliente',
+      budgetLabel: 'Presupuesto mensual (€)',
+      budgetPlaceholder: 'Introduce tu presupuesto',
+      totalCost: 'Total mensual',
+      totalHours: 'Horas totales',
+      exceedsBudget: 'Presupuesto excedido',
+      categories: 'Categorías',
+      savePlan: 'Exportar presupuesto en PDF',
+      proposal: 'Propuesta personalizada',
+      date: 'Fecha',
+      contact: 'Contacto',
+    },
+    en: {
+      title: 'Budget Planner',
+      clientLabel: 'Client name',
+      budgetLabel: 'Monthly budget (€)',
+      budgetPlaceholder: 'Enter your budget',
+      totalCost: 'Total monthly cost',
+      totalHours: 'Total hours',
+      exceedsBudget: 'Budget exceeded',
+      categories: 'Categories',
+      savePlan: 'Export PDF plan',
+      proposal: 'Custom proposal',
+      date: 'Date',
+      contact: 'Contact',
+    },
+  };
+  
